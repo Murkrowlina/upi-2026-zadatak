@@ -1,0 +1,16 @@
+INSTALACIJA za server.js
+1. Instalirati Node.js -> https://nodejs.org/en/download
+2. Otvoriti Terminal 
+3. node init unutar server folder 
+4. npm install express --save
+5. npm install mssql --save       
+6. npm install cors (ne znam je li to ovo točna linija)
+7. npm install msnodesqlv8      
+8. node server.js -> za pokretanje servera
+
+
+
+Nepotrebno za pročitati osim ako vam ne radi npm:
+->> Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
+Ja sam trebala full npm node install express --save raditi dok nisam unijela ovu liniju
