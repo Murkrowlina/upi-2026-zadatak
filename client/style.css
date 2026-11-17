@@ -1,0 +1,99 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: #492c0bfa; 
+}
+
+#header {
+    border-bottom: 2px solid gray;
+    background-color: white;
+    padding: 10px;
+}
+
+#header h1 {
+    font-size: 50px;
+}
+
+#footer {
+    margin-top: 5%;
+    font-size: 1.3vw;
+    width: 100%;
+    float: left;
+    /* border-top:2px solid lightgray; */
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 5%;
+}
+
+.hidden {
+    display: none;
+}
+
+#main {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    margin: 2rem 2rem;
+}
+
+#main #filter-container {
+    width: 20%;
+    height: fit-content;
+    padding: 1rem;
+    background-color: #feecd8fa;
+    border-radius: 5px;
+}
+
+#catalogue {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+#catalogue .book {
+    background-color: #feecd8fa;
+    display: flex;
+    flex-direction: row;
+    width: 800px;
+    gap: 2rem;
+    white-space: normal;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 10px;
+    border-radius: 10px;
+    visibility: visible;
+    cursor: pointer;
+}
+
+#catalogue .cover img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+#catalogue .title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#catalogue .book-info {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+#catalogue .book-info p {
+    font-size: larger;
+}
+
+#catalogue .book-info button {
+    width: 150px;
+    height: 30px;
+    background-color: #ffd278fa;
+    border-color: #492c0bfa;
+}
+
+#more-BTN {
+    height: 50px;
+    background-color: #ffd278fa;
+    border-color: #492c0bfa;
+}

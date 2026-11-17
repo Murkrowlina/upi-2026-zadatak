@@ -1,0 +1,246 @@
+Autor_ID;Ime;Prezime
+1;Ben;Aaronovitch
+2;Jussi;Adler-Olsen
+3;Aka;Akasaka
+4;Mitch;Albom
+5;Lloyd;Alexander
+6;Svetlana;Alexievich
+7;Aaron;Allston
+8;Kevin J.;Anderson
+9;Hiromu;Arakawa
+10;Isaac;Asimov
+11;Jane;Austen
+12;Victoria;Aveyard
+13;Paolo;Bacigalupi
+14;Fredrik;Backman
+15;David;Baldacci
+16;Travis;Baldree
+17;Greg;Bear
+18;Amanda;Berry
+19;Holly;Black
+20;Malorie;Blackman
+21;Robert;Blaise
+22;Enid;Blyton
+23;B.K.;Borison
+24;Ray;Bradbury
+25;Chris;Bradford
+26;Marion Zimmer;Bradley
+27;Lilian Jackson;Braun
+28;David;Brin
+29;Carissa;Broadbent
+30;Anne;Brontë
+31;Terry;Brooks
+32;Bill;Bryson
+33;Lois McMaster;Bujold
+34;Jim;Butcher
+35;Octavia E.;Butler
+36;Ryan;Cahill
+37;Albert;Camus
+38;Trudi;Canavan
+39;H. D.;Carlton
+40;Jack;Carr
+41;Raymond;Chandler
+42;Maxime;Chattam
+43;G. K.;Chesterton
+44;Lee;Child
+45;Agatha;Christie
+46;Tom;Clancy
+47;Cassandra;Clare
+48;Harlan;Coben
+49;Jackie;Collins
+50;Suzanne;Collins
+51;Caroline B.;Cooney
+52;Susan;Cooper
+53;James S. A.;Corey
+54;Bernard;Cornwell
+55;Patricia;Cornwell
+56;S. A.;Cosby
+57;Michael;Crichton
+58;Justin;Cronin
+59;Clive;Cussler
+60;Gideon;Defoe
+61;Philip K.;Dick
+62;Stephen R.;Donaldson
+63;CG;Drews
+64;Diane;Duane
+65;Charles;Duhigg
+66;Jacek;Dukaj
+67;Philippe;Ebly
+68;George;Eliot
+69;James;Ellroy
+70;Steven;Erikson
+71;Janet;Evanovich
+72;Philip José;Farmer
+73;William;Faulkner
+74;Raymond E.;Feist
+75;Ian;Fleming
+76;Eric;Flint
+77;Dan;Franck
+78;Shari;Franke
+79;Celia S.;Friedman
+80;Cornelia;Funke
+81;Haruichi;Furudate
+82;Neil;Gaiman
+83;Robert;Galbraith
+84;Kami;Garcia
+85;Elizabeth Cleghorn;Gaskell
+86;Kathleen O'Neal;Gear
+87;Tess;Gerritsen
+88;Malcolm;Gladwell
+89;Terry;Goodkind
+90;René;Goscinny
+91;Adalyn;Grace
+92;Winston;Graham
+93;John;Green
+94;John;Grisham
+95;H. Rider;Haggard
+96;Kamala;Harris
+97;Stephen;Hawking
+98;Christopher L.;Hayes
+99;Natalie;Haynes
+100;Brian;Herbert
+101;Hergé;
+102;Mick;Herron
+103;Akira;Himekawa
+104;Michael;Hoeye
+105;James P.;Hogan
+106;Jason Carroll;Holloway
+107;Ernest William;Hornung
+108;Victor;Hugo
+109;Erin;Hunter
+110;Evan;Hunter
+111;Aldous;Huxley
+112;Takehiko;Inoue
+113;Hitoma;Iruma
+114;Christian;Jacq
+115;Jinushi;
+116;Okakura;Kakuz?
+117;Lauren;Kate
+118;Raven;Kennedy
+119;Rina;Kent
+120;Lars;Kepler
+121;Stephen;King
+122;T.;Kingfisher
+123;Sue;Klebold
+124;Ezra;Klein
+125;Mary Robinette;Kowal
+126;Ry?ko;Kui
+127;Katherine;Kurtz
+128;Mizuho;Kusanagi
+129;Camilla;Läckberg
+130;Caroline;Lawrence
+131;Donna;Leon
+132;Claude;Lévi-Strauss
+133;Grace;Lin
+134;Jack;London
+135;Scott;Lynch
+136;Sarah;MacLean
+137;Gregory;Maguire
+138;George R. R.;Martin
+139;Naoya;Matsumoto
+140;Anne;McCaffrey
+141;Brian;McClellan
+142;Freida;McFadden
+143;Leslie;McFarlane
+144;Fiona;McIntosh
+145;Barbara;Mertz
+146;David;Michaels
+147;Yukio;Mishima
+148;Rohinton;Mistry
+149;Kentaro;Miura
+150;Sarah;Monette
+151;K.M.;Moronova
+152;Heather;Morris
+153;Siddhartha;Mukherjee
+154;Brandon;Mull
+155;Garth;Nix
+156;Alyson;Noël
+157;Naomi;Novik
+158;Barack;Obama
+159;Patrick;O'Brian
+160;Eiichiro;Oda
+161;Jenny;Odell
+162;Yoshitoki;?ima
+163;Lauren;Oliver
+164;Fuyumi;Ono
+165;Kousuke;Oono
+166;Darren;O'Shaughnessy
+167;Katsuhiro;?tomo
+168;Chuck;Palahniuk
+169;Christopher;Paolini
+170;Sarah A.;Parker
+171;James;Patterson
+172;Mary E.;Pearson
+173;Sarah;Penner
+174;David;Petersen
+175;Tamora;Pierce
+176;Edward;Plunkett
+177;Jerry;Pournelle
+178;Terry;Pratchett
+179;Thomas;Pynchon
+180;Ian;Rankin
+181;Rachel;Reid
+182;Alastair;Reynolds
+183;Eric;Ries
+184;Rick;Riordan
+185;Jamie;Rix
+186;Margaret;Rogerson
+187;Rainbow;Rowell
+188;Arthur W.;Saha
+189;R. A.;Salvatore
+190;Andrzej;Sapkowski
+191;Robert J.;Sawyer
+192;John;Scalzi
+193;Simon;Scarrow
+194;Dr.;Seuss
+195;Anna;Sewell
+196;William;Shakespeare
+197;Samantha;Shannon
+198;Sara;Shepard
+199;Kamome;Shirahama
+200;Lionel;Shriver
+201;Georges;Simenon
+202;Karin;Slaughter
+203;Robin;Sloan
+204;Alexander McCall;Smith
+205;Jeff;Smith
+206;Nicholas;Sparks
+207;Caitlin;Starling
+208;Neal;Stephenson
+209;Charles;Stross
+210;Douglas;Stuart
+211;Michael J.;Sullivan
+212;Tasha;Suri
+213;Tui;Sutherland
+214;K?ji;Suzuki
+215;Dennis E.;Taylor
+216;Richard;Thaler
+217;Hunter S.;Thompson
+218;J. R. R.;Tolkien
+219;Tsurumaikada;
+220;Harry;Turtledove
+221;Irene;Vallejo
+222;Jack;Vance
+223;Gore;Vidal
+224;A. E. van;Vogt
+225;Cynthia;Voigt
+226;Kurt;Vonnegut
+227;John;Vornholt
+228;Mark;Waddell
+229;Jess;Walter
+230;Nick;Walters
+231;Margaret;Weis
+232;Scott;Westerfeld
+233;Django;Wexler
+234;T. H.;White
+235;Will;Wight
+236;Daniel H.;Wilson
+237;F. Paul;Wilson
+238;Benjamin;Wood
+239;Andrea;Wulf
+240;Janny;Wurts
+241;Kanehito;Yamada
+242;Tsubasa;Yamaguchi
+243;Eliezer;Yudkowsky
+244;Timothy;Zahn
+245;Roger;Zelazny
